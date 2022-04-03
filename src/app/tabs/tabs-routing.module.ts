@@ -26,6 +26,7 @@ const routes: Routes = [
       }
     ]
   },
+  // Path por defecto http://localhost:8100/tabs/
   {
     path: '',
     redirectTo: '/tabs/tab1',
